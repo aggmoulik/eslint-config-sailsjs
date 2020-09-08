@@ -1,0 +1,36 @@
+{
+  "name": "eslint-config-sailsjs",
+  "version": "0.1.0",
+  "description": "ESLint shareable config for the SailsJS MVC Framework",
+  "repository": "https://github.com/aggmoulik/eslint-config-sailsjs",
+  "author": "Moulik Aggarwal <qwertymoulik@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "sailsjs",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "linter",
+    "jscs",
+    "jshint",
+    "jslint",
+    "eslint",
+    "validate",
+    "code style",
+    "strict",
+    "check",
+    "checker",
+    "verify",
+    "enforce",
+    "hint"
+  ],
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.8.1"
+  }
+}
